@@ -1,2 +1,2 @@
-# React-Components-Practice-02
+# React-Components-Practice
 Created with CodeSandbox
